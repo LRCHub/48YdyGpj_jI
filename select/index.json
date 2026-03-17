@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "base_track": "4L",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-17T16:28:25.221885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "4L",
+      "artist": "Pi’erre Bourne",
+      "has_synced": false,
+      "path": "select/01_4L_Pi’erre_Bourne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "4L",
+      "artist": "21 Savage",
+      "has_synced": true,
+      "path": "select/02_4L_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "4L Gang Shit",
+      "artist": "Young Nudy",
+      "has_synced": true,
+      "path": "select/03_4L_Gang_Shit_Young_Nudy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "4L (feat. Rosa Chemical)",
+      "artist": "FSK SATELLITE feat. Sapobully, Rosa Chemical & Greg Willen",
+      "has_synced": true,
+      "path": "select/04_4L_(feat._Rosa_Chemical)_FSK_SATELLITE_feat._Sapobully,_Rosa_Chemical_&_Greg_Willen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "4L",
+      "artist": "FSK SATELLITE",
+      "has_synced": true,
+      "path": "select/05_4L_FSK_SATELLITE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "4L",
+      "artist": "21 Savage",
+      "has_synced": true,
+      "path": "select/06_4L_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "4L",
+      "artist": "FSK SATELLITE; Rosa Chemical",
+      "has_synced": true,
+      "path": "select/07_4L_FSK_SATELLITE;_Rosa_Chemical.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "4L (feat. MamboLosco)",
+      "artist": "Dark Polo Gang feat. MamboLosco",
+      "has_synced": true,
+      "path": "select/08_4L_(feat._MamboLosco)_Dark_Polo_Gang_feat._MamboLosco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "4L",
+      "artist": "Dark Polo Gang",
+      "has_synced": true,
+      "path": "select/09_4L_Dark_Polo_Gang.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Best Friends 4L (feat. Lil Tjay)",
+      "artist": "YNW Melly feat. Lil Tjay",
+      "has_synced": true,
+      "path": "select/10_Best_Friends_4L_(feat._Lil_Tjay)_YNW_Melly_feat._Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Best Friends 4L (feat. Lil Tjay)",
+      "artist": "YNW Melly",
+      "has_synced": true,
+      "path": "select/11_Best_Friends_4L_(feat._Lil_Tjay)_YNW_Melly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "4L feat. Young Nudy",
+      "artist": "21 Savage",
+      "has_synced": true,
+      "path": "select/12_4L_feat._Young_Nudy_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "4L",
+      "artist": "21 Savage",
+      "has_synced": true,
+      "path": "select/13_4L_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "4L Gang - Recipe (Official Video)",
+      "artist": "4L Gang",
+      "has_synced": true,
+      "path": "select/14_4L_Gang_-_Recipe_(Official_Video)_4L_Gang.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Best Friends 4L",
+      "artist": "YNW Melly",
+      "has_synced": true,
+      "path": "select/15_Best_Friends_4L_YNW_Melly.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "La 4L de Jacky",
+      "artist": "Coco Rapido",
+      "has_synced": true,
+      "path": "select/16_La_4L_de_Jacky_Coco_Rapido.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "4L",
+      "artist": "Dark Polo Gang feat. Tony Effe & MamboLosco",
+      "has_synced": true,
+      "path": "select/17_4L_Dark_Polo_Gang_feat._Tony_Effe_&_MamboLosco.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Best Friends 4L (feat. Lil Tjay)",
+      "artist": "YNW Melly",
+      "has_synced": true,
+      "path": "select/18_Best_Friends_4L_(feat._Lil_Tjay)_YNW_Melly.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "4L",
+      "artist": "MamboLosco",
+      "has_synced": true,
+      "path": "select/19_4L_MamboLosco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "4L (feat. Bark, Benjazzy, C.O.S.A. & IO)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_4L_(feat._Bark,_Benjazzy,_C.O.S.A._&_IO)_BAD_HOP.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "4L",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/localdb_01_4L_BAD_HOP.txt",
+      "repo_name": "6jdIFQ84rb8"
+    }
+  ]
+}
